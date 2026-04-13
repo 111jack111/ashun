@@ -1,0 +1,14 @@
+{
+  "name": "c-task-publisher",
+  "displayName": "【C】任务 - 公众号爆款日更",
+  "version": "1.0.0",
+  "description": "公众号爆款日更自动化系统。6 阶段流程：解析→创作→审查→排版→发布→通知。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["wechat", "publisher", "automation", "openclaw"],
+  "author": "顺哥",
+  "license": "MIT-0",
+  "dependencies": {}
+}
